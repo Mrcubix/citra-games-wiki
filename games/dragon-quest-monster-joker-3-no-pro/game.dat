@@ -1,0 +1,9 @@
+title = "Dragon Quest : Monster Joker 3 (No-Pro)"
+description = "The third title of the world known RPG game, scout and train monsters and save the world."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "000400000016AD00"
+region = "jpn"
+release_date = "2016-03-24"
